@@ -5,10 +5,10 @@ node_js:
 jobs:
   include:
     - stage: memmo1
-        script: "yarn test"
+      script: yarn test
 
     - stage: memmo2
-        script: "yarn test"
+      script: yarn test
 
     - stage: memmo3
-        script: "yarn test"
+      script: yarn test
