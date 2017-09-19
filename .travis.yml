@@ -4,6 +4,9 @@ node_js:
 
 jobs:
   include:
+    - stage: memmo0
+      script: yarn test
+
     - stage: memmo1
       script: yarn test
 
@@ -11,4 +14,292 @@ jobs:
       script: yarn test
 
     - stage: memmo3
+      script: yarn test
+
+    - stage: memmo4
+      script: yarn test
+
+    - stage: memmo5
+      script: yarn test
+
+    - stage: memmo6
+      script: yarn test
+
+    - stage: memmo7
+      script: yarn test
+
+    - stage: memmo8
+      script: yarn test
+
+    - stage: memmo9
+      script: yarn test
+
+    - stage: memmo10
+      script: yarn test
+
+    - stage: memmo11
+      script: yarn test
+
+    - stage: memmo12
+      script: yarn test
+
+    - stage: memmo13
+      script: yarn test
+
+    - stage: memmo14
+      script: yarn test
+
+    - stage: memmo15
+      script: yarn test
+
+    - stage: memmo16
+      script: yarn test
+
+    - stage: memmo17
+      script: yarn test
+
+    - stage: memmo18
+      script: yarn test
+
+    - stage: memmo19
+      script: yarn test
+
+    - stage: memmo20
+      script: yarn test
+
+    - stage: memmo21
+      script: yarn test
+
+    - stage: memmo22
+      script: yarn test
+
+    - stage: memmo23
+      script: yarn test
+
+    - stage: memmo24
+      script: yarn test
+
+    - stage: memmo25
+      script: yarn test
+
+    - stage: memmo26
+      script: yarn test
+
+    - stage: memmo27
+      script: yarn test
+
+    - stage: memmo28
+      script: yarn test
+
+    - stage: memmo29
+      script: yarn test
+
+    - stage: memmo30
+      script: yarn test
+
+    - stage: memmo31
+      script: yarn test
+
+    - stage: memmo32
+      script: yarn test
+
+    - stage: memmo33
+      script: yarn test
+
+    - stage: memmo34
+      script: yarn test
+
+    - stage: memmo35
+      script: yarn test
+
+    - stage: memmo36
+      script: yarn test
+
+    - stage: memmo37
+      script: yarn test
+
+    - stage: memmo38
+      script: yarn test
+
+    - stage: memmo39
+      script: yarn test
+
+    - stage: memmo40
+      script: yarn test
+
+    - stage: memmo41
+      script: yarn test
+
+    - stage: memmo42
+      script: yarn test
+
+    - stage: memmo43
+      script: yarn test
+
+    - stage: memmo44
+      script: yarn test
+
+    - stage: memmo45
+      script: yarn test
+
+    - stage: memmo46
+      script: yarn test
+
+    - stage: memmo47
+      script: yarn test
+
+    - stage: memmo48
+      script: yarn test
+
+    - stage: memmo49
+      script: yarn test
+
+    - stage: memmo50
+      script: yarn test
+
+    - stage: memmo51
+      script: yarn test
+
+    - stage: memmo52
+      script: yarn test
+
+    - stage: memmo53
+      script: yarn test
+
+    - stage: memmo54
+      script: yarn test
+
+    - stage: memmo55
+      script: yarn test
+
+    - stage: memmo56
+      script: yarn test
+
+    - stage: memmo57
+      script: yarn test
+
+    - stage: memmo58
+      script: yarn test
+
+    - stage: memmo59
+      script: yarn test
+
+    - stage: memmo60
+      script: yarn test
+
+    - stage: memmo61
+      script: yarn test
+
+    - stage: memmo62
+      script: yarn test
+
+    - stage: memmo63
+      script: yarn test
+
+    - stage: memmo64
+      script: yarn test
+
+    - stage: memmo65
+      script: yarn test
+
+    - stage: memmo66
+      script: yarn test
+
+    - stage: memmo67
+      script: yarn test
+
+    - stage: memmo68
+      script: yarn test
+
+    - stage: memmo69
+      script: yarn test
+
+    - stage: memmo70
+      script: yarn test
+
+    - stage: memmo71
+      script: yarn test
+
+    - stage: memmo72
+      script: yarn test
+
+    - stage: memmo73
+      script: yarn test
+
+    - stage: memmo74
+      script: yarn test
+
+    - stage: memmo75
+      script: yarn test
+
+    - stage: memmo76
+      script: yarn test
+
+    - stage: memmo77
+      script: yarn test
+
+    - stage: memmo78
+      script: yarn test
+
+    - stage: memmo79
+      script: yarn test
+
+    - stage: memmo80
+      script: yarn test
+
+    - stage: memmo81
+      script: yarn test
+
+    - stage: memmo82
+      script: yarn test
+
+    - stage: memmo83
+      script: yarn test
+
+    - stage: memmo84
+      script: yarn test
+
+    - stage: memmo85
+      script: yarn test
+
+    - stage: memmo86
+      script: yarn test
+
+    - stage: memmo87
+      script: yarn test
+
+    - stage: memmo88
+      script: yarn test
+
+    - stage: memmo89
+      script: yarn test
+
+    - stage: memmo90
+      script: yarn test
+
+    - stage: memmo91
+      script: yarn test
+
+    - stage: memmo92
+      script: yarn test
+
+    - stage: memmo93
+      script: yarn test
+
+    - stage: memmo94
+      script: yarn test
+
+    - stage: memmo95
+      script: yarn test
+
+    - stage: memmo96
+      script: yarn test
+
+    - stage: memmo97
+      script: yarn test
+
+    - stage: memmo98
+      script: yarn test
+
+    - stage: memmo99
       script: yarn test
