@@ -1,3 +1,14 @@
 language: node_js
 node_js:
   - "7"
+
+jobs:
+  include:
+    - stage: memmo1
+        script: "yarn test"
+
+    - stage: memmo2
+        script: "yarn test"
+
+    - stage: memmo3
+        script: "yarn test"
